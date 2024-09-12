@@ -16,6 +16,8 @@ public class Hotel {
         int nums=sc.nextInt();
         
          for (int i=0; i<nums; i++){
+             System.out.println("Enter Booking "+(i+1)+":");
+             
              System.out.print("Booking ID: ");
              int fid=sc.nextInt();
              
